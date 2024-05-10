@@ -1,0 +1,133 @@
+@media screen and (max-width:1400px){
+    .button{
+        padding: 0.75rem 0.4rem;
+    }
+    textarea#exampleFormControlTextarea1 {
+        height: 155px;
+    }
+    .col_md_4{
+        width: 33.33333333%;
+
+    }
+    .col_md_8{
+        width: 68.6%;
+    }
+    .paddin{
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
+    }
+
+}
+@media screen and (max-width:1200px){
+    .col-md-6{
+        width: 100%;
+    }
+    .col_4{
+        width: 33.33333333%;
+
+    }
+    .col-md-12.d-flex.mt-3 {
+        flex-direction: column;
+    }
+    .col-md-12.d-flex.mb-3 {
+        flex-direction: column;
+    }
+    .wide{
+        width: 100%;
+    }
+    .justify-content-end{
+        justify-content: unset!important;
+        flex-direction: column;
+        gap: 0.85rem;
+    }
+    input#exampleColorInput {
+        margin-bottom: 1rem;
+    }
+    .mar-bot{
+        margin-bottom: 0!important;
+    }
+    textarea#exampleFormControlTextarea1 {
+        height: 235px;
+    }
+    .button {
+        padding: 0.4rem 0.4rem;
+    }
+    .mt_3{
+        margin-top: 1rem!important;
+    }
+    .margin_bottom{
+        margin-bottom: 1rem;
+    }
+    .margin_botom{
+        margin-bottom: 0.4rem;
+    }
+
+
+
+}
+@media screen and (max-width:992px){
+    .row.content {
+        gap: 1rem;
+    }
+    .mt_3{
+        margin-top: 1rem!important;
+    }
+}
+@media screen and (max-width:1201px){
+    .form-width{
+        width: 100%;
+    }
+    .space{
+        justify-content: space-between;
+    }
+}
+@media screen and (max-width:992px){
+    .width{
+        width: 70%;
+    }
+}
+@media screen and (max-width:768px){
+    .mt_3{
+        margin-top: 1rem!important;
+    }
+    .col_4{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:347px){
+    .space{
+        flex-direction: column;
+        gap: 1rem;
+    }
+    .width{
+        width: 100%;
+    }
+    .button-width{
+        width: 100%;
+        padding: 0.1rem 0.4rem;
+    }
+    .margin_bottom{
+        margin-bottom: 1rem;
+    }
+}
+
+
+@media screen and (max-width:350px){
+    .button_pading{
+        padding: 0.5rem 0.7rem;
+    }
+    .font_size{
+        font-size: 0.9rem;
+    }
+}
+@media screen and (max-width:328px){
+    .button_pading{
+        padding: 0.5rem 0.6rem;
+    }
+    .font_size{
+        font-size: 0.8rem;
+    }
+}
+
+
